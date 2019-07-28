@@ -1,0 +1,10 @@
+{
+  "name": "gatsby-loader-finally",
+  "version": "1.0.0",
+  "dependencies": {
+    "gatsby": "^2.13.41",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "redux-api-middleware": "2.3.0"
+  }
+}
